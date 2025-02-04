@@ -1,0 +1,13 @@
+once user has logged in, project can show Medical History, make a booking,
+-find doctors near me using location,
+-mobile clinic dates(mobile clinics depend on availability of dr's and medical interns volunteering),
+-Volunteer(accepts volunteers i.e dr's, medical interns, community service to help with clean ups, helping 
+seniours navigate through website etc.)
+-For seniors and youth who are really in need
+
+13 Aug
+-Database
+-Flask
+
+Web App
+-Chat bot
